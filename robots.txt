@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-7mlvgp.kujang138.space/sitemap.xml
